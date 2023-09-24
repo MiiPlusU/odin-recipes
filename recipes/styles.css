@@ -1,0 +1,39 @@
+.eggs-background {
+    background-color: aqua;
+}
+
+title {
+    text-align:center
+}
+
+.eggs-header {
+    font-weight:200;
+    color: rgb(255,0,255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px
+}
+
+img {
+    height: auto;
+    width: 250px
+}
+
+.ft-bgc {
+    background-color: hsl(60,100%,50%);
+}
+
+.ft-list li{
+    color: rgb(7, 116, 58);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.w-bgc {
+    background-image: url('../img/radiant-gradient.svg');
+    background-size: cover;
+}
+
+.w-bgc *:not(h1):not(h2) {
+    font-weight: bold;
+}
+
+
